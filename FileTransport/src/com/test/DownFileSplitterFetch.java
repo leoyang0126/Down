@@ -8,7 +8,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;  
 /** 
  * 下载上传子线程 
- * @author wzztestin 
+ * @author Leo.Yang
  * 
  */  
 public class DownFileSplitterFetch extends Thread {  

@@ -12,12 +12,12 @@ import java.net.HttpURLConnection;
 import java.net.URL;  
 /** 
  * 文件断点续传加分段上传线程 
- * @author wzztestin 
+ * @author Leo.Yang
  * 
  */  
 /** 
  * 文件断点续传加分段上传线程 
- * @author wzztestin 
+ * @author Leo.Yang
  * 
  */  
 public class DownFileFetch extends Thread {  

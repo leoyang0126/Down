@@ -4,7 +4,7 @@ import java.io.*;
 
 /** 
  * 文件对象 
- * @author wzztestin 
+ * @author Leo.Yang
  * 
  */  
 public class DownFileAccess implements Serializable {  
